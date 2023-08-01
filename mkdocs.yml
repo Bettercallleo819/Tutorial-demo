@@ -1,0 +1,15 @@
+site_name: ABCDE ZK Tutorial
+
+theme:
+  name: 'material'
+
+nav:
+    - Home: index.md
+    - Content: content.md
+    - Introduction:
+        - Background and Definition: Intro/background.md
+        - Overview of ZK: Intro/overview.md
+    - Mathematical Foundation:
+        - Discrete Logarithm Problem and Solution: Math/discrete_log.md
+        - Elliptic Curve Cryptography Basics: Math/curve.md
+        - Group Theory and Permutations: Math/group.md
